@@ -1,0 +1,32 @@
+* {
+    margin: 0px;
+}
+.edge {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    
+}
+.submit-button ,.back-button{
+    display: block;
+    margin: auto;
+    padding: 10px 35px;
+    background-color: #4CAF50; 
+    color: white; 
+    border: none; 
+    border-radius: 5px; 
+    cursor: pointer; 
+    
+}
+
+.submit-button:hover {
+    background-color: #45a049; 
+    
+}
+.back-button:hover {
+    background-color: #45a049; 
+    
+}
+
