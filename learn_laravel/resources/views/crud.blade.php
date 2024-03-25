@@ -57,6 +57,7 @@
             </div>
         </div>
     </div>
+    
     <script src="{{ asset('js/ajax.js') }}">        
     </script>
 </body>
